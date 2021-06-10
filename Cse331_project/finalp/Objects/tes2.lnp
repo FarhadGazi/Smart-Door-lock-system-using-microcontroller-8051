@@ -1,0 +1,3 @@
+".\Objects\doorlocksystem.obj" 
+TO ".\Objects\tes2" 
+PRINT(".\Listings\tes2.m51")
